@@ -1,7 +1,7 @@
-package main
+package tcp_to_http
 
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, World!")
+	fmt.Println("TCP to HTTP 1.1")
 }
